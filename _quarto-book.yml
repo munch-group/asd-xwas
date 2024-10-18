@@ -20,12 +20,12 @@ comments:
   hypothesis: true
 
 book:
-  repo-url: "https://github.com/munch-group/analysis-template"
+  repo-url: "https://github.com/munch-group/asd-xwas"
   repo-actions: [edit, issue, source]  
   # project title
-  title: "Title of your project"
+  title: "ASD XWAS"
   # your name
-  author: "Joanna Doh"  
+  author: "Shannon D'urso"  
   chapters:
     # your font page:
     - index.qmd
