@@ -19,4 +19,5 @@ dependencies:
   - nbdime
   - gwf
   - gwf-utilization
+  - r-essentials
 
