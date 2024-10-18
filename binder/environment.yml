@@ -1,23 +1,22 @@
-name: birc-project
+name: asd-gwas
 channels:
   - conda-forge
   - kaspermunch
   - gwforg
+  - micknudsen
+  - r  
   - defaults
 dependencies:
-  - geneinfo
-  - ipython
-  - ipywidgets
   - jupyterlab
-  - msprime
   - nodejs
-  - pyslim
   - pytables
   - scipy
   - seaborn
   - slurm-jupyter
   - statsmodels
-  - tskit
+  - geneinfo
   - git
+  - nbdime
   - gwf
-prefix: /Users/kmt/miniconda3/envs/birc-project
+  - gwf-utilization
+
