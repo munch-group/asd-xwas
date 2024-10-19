@@ -58,8 +58,6 @@ I found that neither academic seniority or age of workplace individuals much aff
 
 ## Discussion
 
-This this investigation of `{python} params.sample_size` Danes..., 
-
 <!-- Dummy text -->
 {{< lipsum 1 >}} 
 

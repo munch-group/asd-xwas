@@ -20,4 +20,8 @@ dependencies:
   - gwf
   - gwf-utilization
   - r-essentials
-
+  - pyyaml
+  - tabulate
+  - pycryptodome>3.10
+  - pbkdf2
+  - cryptography 
