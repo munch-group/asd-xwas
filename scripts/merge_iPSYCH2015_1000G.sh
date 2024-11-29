@@ -60,3 +60,5 @@ plink --bfile /faststorage/jail/project/ChrXh2/data/autosomes/iPSYCH2015_HRC_202
 	--extract pruned_autosomes_iPSYCH2015_1000G_overlap.prune.in \
 	--allow-no-sex \
 	--make-bed \
+ 	--out iPSYCH2015_1000G_pruned
+
